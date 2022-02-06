@@ -2,4 +2,58 @@
     background-color: #156B8A;
     height: 100px !important; 
     width:100%;
+<<<<<<< Updated upstream
 }
+||||||| constructed merge base
+}
+.about-head-info{
+    background-color: #e3ebee !important;
+}
+/* Founders section */
+
+.founders{
+    
+}
+.member-img{
+    margin-left: 120px !important;
+}
+
+.escrow-btn{
+    background-color: rgb(151, 218, 89) !important;
+    color:#0a5a90 !important;
+}
+.escrow-link{
+    border-radius: 20px !important;
+    margin-left: 70px !important;
+    margin-right: 60px !important;
+}
+a{
+    color: #156B8A !important;
+}
+
+=======
+}
+.about-head-info{
+    background-color: #e3ebee !important;
+}
+/* Founders section */
+
+
+.member-img{
+    margin-left: 120px !important;
+}
+
+.escrow-btn{
+    background-color: rgb(151, 218, 89) !important;
+    color:#0a5a90 !important;
+}
+.escrow-link{
+    border-radius: 20px !important;
+    margin-left: 70px !important;
+    margin-right: 60px !important;
+}
+a{
+    color: #156B8A !important;
+}
+
+>>>>>>> Stashed changes
